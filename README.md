@@ -5,7 +5,7 @@ This project showcases a data-driven approach to revolutionizing supply chain ma
 
 ## Resources
 
-- **Data Set:** [Access the dataset]([https://drive.google.com/drive/folders/1rwKSarXyTdjZ9AbDVWxhiJvQw5kWwBDj?usp=sharing](https://drive.google.com/drive/folders/1s1OhuV1LlzxDYMthkx1Rly7fZUgQ8r4e?usp=sharing))
+- **Data Set:** ([https://drive.google.com/drive/folders/1rwKSarXyTdjZ9AbDVWxhiJvQw5kWwBDj?usp=sharing](https://drive.google.com/drive/folders/1s1OhuV1LlzxDYMthkx1Rly7fZUgQ8r4e?usp=sharing))
 - **Processed Data Set:** ([https://drive.google.com/drive/folders/1r1XBri91CDpllJExMSGt8hlll6c72jnt?usp=sharing](https://drive.google.com/drive/folders/1r1XBri91CDpllJExMSGt8hlll6c72jnt?usp=sharing))
 - **Project Demonstration Video:** ([https://drive.google.com/file/d/1hP9-dgQ_dOiIoj3qrcmFwVXpWUmruFUY/view?usp=sharing](https://drive.google.com/drive/folders/16WpDzloiX8aOk8i-rJuh6L10e5uyXIdS?usp=sharing))
 - **Pre-processed Dataset:**
