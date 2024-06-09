@@ -1,0 +1,1 @@
+# Smartintern_Qlik_Supply_Chain_Management_Project
